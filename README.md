@@ -30,7 +30,7 @@ Yêu cầu: **Node.js 20 trở lên**, npm và **MySQL 8 trở lên**.
 - Chat trực tuyến với bệnh nhân.
 - Xem lịch làm việc, số lịch khám và trạng thái 30 ngày.
 - Chỉ điểm danh được trong ngày hiện tại khi có ca làm.
-- Gửi đơn xin nghỉ có kế hoạch hoặc nghỉ khẩn cấp; tải ảnh/PDF minh chứng và theo dõi kết quả duyệt.
+- Gửi đơn xin nghỉ có kế hoạch hoặc nghỉ khẩn cấp; 
 - Xem cách admin xử lý lịch bị ảnh hưởng: thay bác sĩ hoặc hủy lịch.
 - Xem lịch khám.
 - Tick đã khám/chưa khám bằng trạng thái lịch hẹn.
